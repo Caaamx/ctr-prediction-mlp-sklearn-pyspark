@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-FKKQ6CED.js";import"/build/_shared/chunk-J3PKFMLQ.js";import"/build/_shared/chunk-KPSTTWTG.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/page//build/_shared/chunk-FKKQ6CED.js";import"/page//build/_shared/chunk-J3PKFMLQ.js";import"/page//build/_shared/chunk-KPSTTWTG.js";import"/page//build/_shared/chunk-OZE3FFNP.js";export default a();
