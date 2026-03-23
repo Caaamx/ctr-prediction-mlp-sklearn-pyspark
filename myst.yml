@@ -1,0 +1,8 @@
+version: 1
+project:
+  title: Primer Entregable
+  authors:
+    - name: Camilo Vargas Escorcia
+  index: Mini1.ipynb
+site:
+  template: book-theme
